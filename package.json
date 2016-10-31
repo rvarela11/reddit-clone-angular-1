@@ -1,0 +1,11 @@
+{
+  "name": "reddit-clone-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "Robert Varela <rvarela@utexas.edu>",
+  "license": "ISC"
+}
